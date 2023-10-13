@@ -1,8 +1,10 @@
 .buttonNavbar {
     background-color:bisque;
     border: none;
-    width: 15%;
+    width: fit-content;
     padding: 16x 32x;
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     display:inline-block;
     transition-duration: 0.3s;
