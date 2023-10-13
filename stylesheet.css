@@ -1,8 +1,4 @@
 .buttonNavbar {
-    position:absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     background-color:bisque;
     border: none;
     width: 15%;
@@ -12,6 +8,15 @@
     transition-duration: 0.3s;
     cursor:pointer;
     border-radius: 12px;
+}
+
+div.buttonContainer {
+    width: auto;
+    height: auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .buttonNavbar:hover {
