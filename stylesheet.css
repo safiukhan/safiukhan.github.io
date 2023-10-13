@@ -1,0 +1,21 @@
+.buttonNavbar {
+    background-color:bisque;
+    border: none;
+    width: 15%;
+    padding: 16x 32x;
+    text-align: center;
+    display:inline-block;
+    transition-duration: 0.3s;
+    cursor:pointer;
+    border-radius: 12px;
+}
+
+.buttonNavbar:hover {
+    background-color: burlywood;
+    color:white
+}
+
+div.navbar {
+    width: 100%;
+    background-color: bisque;
+}
